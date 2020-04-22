@@ -2,7 +2,7 @@
  "ebook" :[],
  "database" :[{"name":"SQL","link":""}],
  "ecom":"",
- "date_update":"01-02-2020",
- 
+ "version":"1.0",
+ "date":"01-02-2020"
 
 }
